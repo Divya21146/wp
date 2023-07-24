@@ -1,0 +1,29 @@
+/**
+Theme name: newtheme
+Theme URI: http://google.com
+Author: Divya
+Author URI: http://Youtube
+Version: 1.0
+Description: Just a try....
+**/
+
+.fixed-header, .fixed-footer{
+    width: 100%;
+    background: #333;
+    padding: 10px 10px;
+    color: #fff;
+}
+
+a{
+    color: #b4a8a8;
+    text-decoration: none;
+    /* padding: 0px 25px;
+    display: inline-block; */
+}
+
+.image-container img {
+    max-width: 300px; /* Set the desired width */
+    max-height: 200px; /* Set the desired height */
+    object-fit: cover; /* This property ensures the image is scaled and cropped as needed to fill the fixed-size container. */
+  }
+  

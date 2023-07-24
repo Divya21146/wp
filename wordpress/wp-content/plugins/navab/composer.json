@@ -1,0 +1,19 @@
+{
+    "name": "hp/navab",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "apache2",
+    "authors": [
+        {
+            "name": "navab",
+            "email": "divya.t@navabrindit.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}

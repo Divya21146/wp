@@ -1,0 +1,560 @@
+[17-Jul-2023 09:42:44 UTC] PHP Warning:  require_once(enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:42:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:42:49 UTC] PHP Warning:  require_once(enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:42:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:43:00 UTC] PHP Warning:  require_once(enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:43:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:43:02 UTC] PHP Warning:  require_once(enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:43:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:43:59 UTC] PHP Warning:  include_once(enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:43:59 UTC] PHP Warning:  include_once(): Failed opening 'enqueue.php' for inclusion (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:44:01 UTC] PHP Warning:  include_once(enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:44:01 UTC] PHP Warning:  include_once(): Failed opening 'enqueue.php' for inclusion (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:28 UTC] PHP Warning:  require_once(Enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'Enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:28 UTC] PHP Warning:  require_once(Enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'Enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:48 UTC] PHP Warning:  require_once(Base/Enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'Base/Enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:49 UTC] PHP Warning:  require_once(Base/Enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:45:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'Base/Enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 1
+[17-Jul-2023 09:46:46 UTC] PHP Warning:  require_once(Enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 4
+[17-Jul-2023 09:46:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'Enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 4
+[17-Jul-2023 09:46:47 UTC] PHP Warning:  require_once(Enqueue.php): failed to open stream: No such file or directory in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 4
+[17-Jul-2023 09:46:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'Enqueue.php' (include_path='.:/usr/share/php') in /var/www/wordpress/wp-content/plugins/navab/templates/admin.php on line 4
+[17-Jul-2023 10:26:46 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /var/www/wordpress/wp-content/plugins/navab/inc/Base/Enqueue.php on line 22
+[17-Jul-2023 13:37:58 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 728
+[17-Jul-2023 13:38:03 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[17-Jul-2023 13:40:34 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:41:37 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:42:47 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:43:28 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:43:44 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:44:11 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:44:30 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:44:40 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:45:20 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Inc\Base\Enqueue' not found in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php:45
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/navab/inc/Init.php(31): Inc\Init::instantiate()
+#1 /var/www/wordpress/wp-content/plugins/navab/navab.php(41): Inc\Init::register_services()
+#2 /var/www/wordpress/wp-settings.php(453): include_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-config.php(89): require_once('/var/www/wordpr...')
+#4 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-blog-header.php(13): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#7 {main}
+  thrown in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php on line 45
+[17-Jul-2023 13:46:03 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[17-Jul-2023 13:46:03 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[17-Jul-2023 13:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Inc\Base\Enqueue' not found in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php:45
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/navab/inc/Init.php(31): Inc\Init::instantiate()
+#1 /var/www/wordpress/wp-content/plugins/navab/navab.php(41): Inc\Init::register_services()
+#2 /var/www/wordpress/wp-settings.php(453): include_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-config.php(89): require_once('/var/www/wordpr...')
+#4 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-blog-header.php(13): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#7 {main}
+  thrown in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php on line 45
+[17-Jul-2023 13:46:03 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[17-Jul-2023 13:46:03 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[17-Jul-2023 13:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Inc\Base\Enqueue' not found in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php:45
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/navab/inc/Init.php(31): Inc\Init::instantiate()
+#1 /var/www/wordpress/wp-content/plugins/navab/navab.php(41): Inc\Init::register_services()
+#2 /var/www/wordpress/wp-settings.php(453): include_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-config.php(89): require_once('/var/www/wordpr...')
+#4 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-admin/admin-ajax.php(22): require_once('/var/www/wordpr...')
+#6 {main}
+  thrown in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php on line 45
+[17-Jul-2023 13:48:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Inc\Base\Enqueue' not found in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php:45
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/navab/inc/Init.php(31): Inc\Init::instantiate()
+#1 /var/www/wordpress/wp-content/plugins/navab/navab.php(41): Inc\Init::register_services()
+#2 /var/www/wordpress/wp-settings.php(453): include_once('/var/www/wordpr...')
+#3 /var/www/wordpress/wp-config.php(89): require_once('/var/www/wordpr...')
+#4 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-admin/admin-ajax.php(22): require_once('/var/www/wordpr...')
+#6 {main}
+  thrown in /var/www/wordpress/wp-content/plugins/navab/inc/Init.php on line 45
+[17-Jul-2023 13:49:18 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 13:50:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[17-Jul-2023 13:50:02 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[17-Jul-2023 13:50:10 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 14:11:19 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[17-Jul-2023 14:11:27 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /var/www/wordpress/wp-content/themes/newtheme/footer.php on line 2
+[17-Jul-2023 14:11:42 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[17-Jul-2023 14:11:42 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[20-Jul-2023 05:35:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/index.php on line 10
+[20-Jul-2023 05:37:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1427
+[20-Jul-2023 05:37:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1430
+[20-Jul-2023 05:37:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/http.php on line 497
+[20-Jul-2023 05:37:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/http.php on line 498
+[20-Jul-2023 05:37:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-admin/admin-ajax.php on line 27
+[20-Jul-2023 05:37:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-admin/admin-ajax.php on line 28
+[20-Jul-2023 05:37:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/functions.php on line 6782
+[20-Jul-2023 05:37:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-admin/includes/misc.php on line 1431
+[20-Jul-2023 05:37:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/functions.php on line 6896
+[20-Jul-2023 05:38:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1427
+[20-Jul-2023 05:38:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1430
+[20-Jul-2023 05:39:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1427
+[20-Jul-2023 05:39:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1430
+[20-Jul-2023 05:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/http.php on line 497
+[20-Jul-2023 05:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/http.php on line 498
+[20-Jul-2023 05:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-admin/admin-ajax.php on line 27
+[20-Jul-2023 05:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-admin/admin-ajax.php on line 28
+[20-Jul-2023 05:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/functions.php on line 6782
+[20-Jul-2023 05:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-admin/includes/misc.php on line 1431
+[20-Jul-2023 05:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/functions.php on line 6896
+[20-Jul-2023 05:39:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1427
+[20-Jul-2023 05:39:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1430
+[20-Jul-2023 05:39:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1427
+[20-Jul-2023 05:39:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1430
+[20-Jul-2023 05:42:01 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 05:42:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 05:42:01 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 05:42:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 05:42:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1427
+[20-Jul-2023 05:42:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/wordpress/wp-includes/class-wp-styles.php:214) in /var/www/wordpress/wp-includes/pluggable.php on line 1430
+[20-Jul-2023 06:20:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:20:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:21:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[20-Jul-2023 06:22:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /var/www/wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[20-Jul-2023 06:22:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:22:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 06:23:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 2
+[20-Jul-2023 07:23:30 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:23:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:23:52 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:23:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:26 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:27 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:34 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:46 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:58 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:24:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:30 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:30 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:41 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:41 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:25:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:26:53 UTC] PHP Deprecated:  File Theme without sidebar.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in /var/www/wordpress/wp-includes/functions.php on line 5613
+[20-Jul-2023 07:28:02 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:42 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:43 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:28:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:30:57 UTC] PHP Deprecated:  File Theme without sidebar.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in /var/www/wordpress/wp-includes/functions.php on line 5613
+[20-Jul-2023 07:30:59 UTC] PHP Deprecated:  File Theme without sidebar.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in /var/www/wordpress/wp-includes/functions.php on line 5613
+[20-Jul-2023 07:32:22 UTC] PHP Deprecated:  File Theme without sidebar.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in /var/www/wordpress/wp-includes/functions.php on line 5613
+[20-Jul-2023 07:32:23 UTC] PHP Deprecated:  File Theme without sidebar.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in /var/www/wordpress/wp-includes/functions.php on line 5613
+[20-Jul-2023 07:33:43 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:33:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:17 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:25 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:26 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:54 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:34:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:37 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:37 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:38 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:38 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:40 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:40 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:38:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:41:54 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:41:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:41:55 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:41:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:43:38 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:43:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:43:39 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:43:39 UTC] PHP Notice:  Trying to get property 'queue' of non-object in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 07:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-includes/script-loader.php on line 2876
+[20-Jul-2023 09:42:12 UTC] PHP Notice:  PHP's XML extension is not available. Please contact your hosting provider to enable PHP's XML extension. in /var/www/wordpress/wp-includes/IXR/class-IXR-message.php on line 48
+[20-Jul-2023 09:42:13 UTC] PHP Notice:  PHP's XML extension is not available. Please contact your hosting provider to enable PHP's XML extension. in /var/www/wordpress/wp-includes/IXR/class-IXR-message.php on line 48
+[20-Jul-2023 11:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in /var/www/wordpress/wp-content/themes/blanktheme/single-custom-post.php:14
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/single-custom-post.php on line 14
+[20-Jul-2023 11:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in /var/www/wordpress/wp-content/themes/blanktheme/single-custom-post.php:13
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/single-custom-post.php on line 13
+[20-Jul-2023 11:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in /var/www/wordpress/wp-content/themes/blanktheme/single-custom-post.php:13
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/single-custom-post.php on line 13
+[20-Jul-2023 11:34:43 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /var/www/wordpress/wp-content/themes/blanktheme/custom-post.php on line 35
+[20-Jul-2023 11:37:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_field() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php:14
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 14
+[20-Jul-2023 11:38:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 20
+[20-Jul-2023 11:40:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 20
+[20-Jul-2023 11:41:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 20
+[20-Jul-2023 11:41:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 20
+[20-Jul-2023 11:41:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 20
+[20-Jul-2023 11:41:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 20
+[20-Jul-2023 11:41:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 20
+[20-Jul-2023 11:57:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/blanktheme/single-books.php on line 28
+[20-Jul-2023 12:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_meta_box() in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:79
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(308): custom_post()
+#1 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpress/wp-settings.php(623): do_action()
+#4 /var/www/wordpress/wp-config.php(91): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/wp-admin/admin-ajax.php(22): require_once('/var/www/wordpr...')
+#7 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 79
+[20-Jul-2023 12:19:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_meta_box() in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:79
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(308): custom_post()
+#1 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpress/wp-settings.php(623): do_action()
+#4 /var/www/wordpress/wp-config.php(91): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/wp-admin/admin-ajax.php(22): require_once('/var/www/wordpr...')
+#7 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 79
+[20-Jul-2023 12:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_meta_box() in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:79
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(308): custom_post()
+#1 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpress/wp-settings.php(623): do_action()
+#4 /var/www/wordpress/wp-config.php(91): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/wp-admin/admin.php(34): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-admin/post.php(12): require_once('/var/www/wordpr...')
+#8 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 79
+[20-Jul-2023 12:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_meta_box() in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:79
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(308): custom_post()
+#1 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpress/wp-settings.php(623): do_action()
+#4 /var/www/wordpress/wp-config.php(91): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/wp-admin/admin-ajax.php(22): require_once('/var/www/wordpr...')
+#7 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 79
+[20-Jul-2023 12:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_meta_box() in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:79
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(308): custom_post()
+#1 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpress/wp-settings.php(623): do_action()
+#4 /var/www/wordpress/wp-config.php(91): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/wp-blog-header.php(13): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#8 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 79
+[20-Jul-2023 12:21:11 UTC] PHP Fatal error:  Cannot redeclare add_meta_box() (previously declared in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:118) in /var/www/wordpress/wp-admin/includes/template.php on line 1070
+[20-Jul-2023 12:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_meta_box() in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:79
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(308): custom_post()
+#1 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpress/wp-settings.php(623): do_action()
+#4 /var/www/wordpress/wp-config.php(91): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/wp-admin/admin.php(34): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/wp-admin/post.php(12): require_once('/var/www/wordpr...')
+#8 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 79
+[20-Jul-2023 12:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_meta_box() in /var/www/wordpress/wp-content/themes/blanktheme/functions.php:79
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-hook.php(308): custom_post()
+#1 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wordpress/wp-settings.php(623): do_action()
+#4 /var/www/wordpress/wp-config.php(91): require_once('/var/www/wordpr...')
+#5 /var/www/wordpress/wp-load.php(50): require_once('/var/www/wordpr...')
+#6 /var/www/wordpress/wp-blog-header.php(13): require_once('/var/www/wordpr...')
+#7 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#8 {main}
+  thrown in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 79
+[20-Jul-2023 12:24:34 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'display_custom_gallery_meta_box' not found or invalid function name in /var/www/wordpress/wp-admin/includes/template.php on line 1445
+[20-Jul-2023 12:25:00 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'display_custom_gallery_meta_box' not found or invalid function name in /var/www/wordpress/wp-admin/includes/template.php on line 1445
+[20-Jul-2023 12:25:18 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'display_custom_gallery_meta_box' not found or invalid function name in /var/www/wordpress/wp-admin/includes/template.php on line 1445
+[20-Jul-2023 12:27:07 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'display_custom_gallery_meta_box' not found or invalid function name in /var/www/wordpress/wp-admin/includes/template.php on line 1445
+[21-Jul-2023 05:51:25 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 65
+[21-Jul-2023 05:51:25 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 65
+[21-Jul-2023 05:51:33 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 65
+[21-Jul-2023 05:51:33 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 65
+[21-Jul-2023 05:54:41 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 65
+[21-Jul-2023 05:54:41 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 65
+[21-Jul-2023 06:29:35 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 59
+[21-Jul-2023 10:27:03 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 59
+[21-Jul-2023 10:28:45 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 59
+[21-Jul-2023 16:01:50 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 68
+[21-Jul-2023 16:01:50 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 68
+[21-Jul-2023 16:01:51 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 68
+[21-Jul-2023 16:01:51 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 68
+[21-Jul-2023 16:16:33 UTC] PHP Notice:  Undefined index: title in /var/www/wordpress/wp-content/themes/blanktheme/functions.php on line 59
+[21-Jul-2023 16:29:50 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[21-Jul-2023 16:33:13 UTC] Cron reschedule event error for hook: woocommerce_tracker_send_event, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[21-Jul-2023 16:33:13 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Jul-2023 16:33:13 UTC] Cron reschedule event error for hook: woocommerce_geoip_updater, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"fifteendays","args":[],"interval":1296000}
+[22-Jul-2023 05:56:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 209
+[22-Jul-2023 05:56:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 447
+[22-Jul-2023 05:56:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/wordpress/wp-includes/update.php on line 728
+[22-Jul-2023 07:25:10 UTC] PHP Fatal error:  Cannot declare class Calendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:25:54 UTC] PHP Fatal error:  Cannot declare class Calendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:25:54 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:25:54 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:36 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:36 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:36 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:36 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:36 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:36 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:37 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:38 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:38 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:38 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:38 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:38 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:38 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:41 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:41 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:41 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:41 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 0
+[22-Jul-2023 07:27:41 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:27:41 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:30:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_my_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 / in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[22-Jul-2023 07:30:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_my_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 / in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[22-Jul-2023 07:30:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_my_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 / in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[22-Jul-2023 07:30:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_my_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 / in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[22-Jul-2023 07:35:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_my_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 / in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[22-Jul-2023 07:35:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_my_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 / in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[22-Jul-2023 07:35:50 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 45
+[22-Jul-2023 07:35:50 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:35:50 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:35:50 UTC] PHP Fatal error:  Cannot declare class salendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 45
+[22-Jul-2023 07:35:50 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:35:50 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:35:54 UTC] PHP Fatal error:  Cannot declare class Calendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 45
+[22-Jul-2023 07:35:54 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:35:54 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:35:54 UTC] PHP Fatal error:  Cannot declare class Calendar_Widget, because the name is already in use in /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php on line 45
+[22-Jul-2023 07:35:54 UTC] PHP Notice:  Function is_embed was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:35:54 UTC] PHP Notice:  Function is_search was called <strong>incorrectly</strong>. Conditional query tags do not work before the query is run. Before then, they always return false. Please see <a href="https://wordpress.org/documentation/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.1.0.) in /var/www/wordpress/wp-includes/functions.php on line 5865
+[22-Jul-2023 07:36:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[22-Jul-2023 07:36:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in /var/www/wordpress/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected in /var/www/wordpress/wp-includes/class-wp-widget.php:163
+Stack trace:
+#0 /var/www/wordpress/wp-includes/class-wp-widget-factory.php(62): WP_Widget->__construct()
+#1 /var/www/wordpress/wp-includes/widgets.php(115): WP_Widget_Factory->register()
+#2 /var/www/wordpress/wp-content/plugins/fireworks_widget/fireworks_widget.php(11): register_widget()
+#3 /var/www/wordpress/wp-includes/class-wp-hook.php(308): fireworks_and_calendar_widgets_register()
+#4 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/wordpress/wp-includes/widgets.php(1854): do_action()
+#7 /var/www/wordpress/wp-includes/class-wp-hook.php(308): wp_widgets_init()
+#8 /var/www/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /var in /var/www/wordpress/wp-includes/class-wp-widget.php on line 163
+[24-Jul-2023 04:35:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/wordpress/wp-content/plugins/custom-post-type-ui/inc/post-types.php on line 218
+[24-Jul-2023 06:26:52 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/newtheme/single-product.php on line 16
+[24-Jul-2023 06:29:23 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/newtheme/single-product.php on line 16
+[24-Jul-2023 06:32:53 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/newtheme/single-product.php on line 21
+[24-Jul-2023 07:10:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/wordpress/wp-content/themes/newtheme/single-product.php on line 27
+[24-Jul-2023 08:53:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function custom_resize_image() in /var/www/wordpress/wp-content/themes/newtheme/single-product.php:19
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/newtheme/single-product.php on line 19
+[24-Jul-2023 08:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function custom_resize_image() in /var/www/wordpress/wp-content/themes/newtheme/single-product.php:18
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/newtheme/single-product.php on line 18
